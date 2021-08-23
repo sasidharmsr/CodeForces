@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.im {
+    width: 50px;
+    padding: 10px;
+}
+
+.frih {
+    height: 300px;
+}
+
+.bg-da {
+    background: #1D976C;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #93F9B9, #1D976C);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.hei {
+    height: 100px;
+}
+
+.goa {
+
+    border-radius: 5px;
+    border-color: #632236;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.goaa {
+    border-radius: 5px;
+    border-color: #632236;
+    border-style: double;
+    border-width: 3px;
+}
+
+.lin {
+    color: black;
+    height: 45px;
+    font-size: 20px;
+    background-color: white;
+}
+
+.avatar {
+    height: 120px;
+}
+
+.avpic {
+    width: 100%;
+    height: 100%;
+}
+
+.bf {
+    height: 75px;
+}
+
+.bg-main {
+    background-color: #9dbbc4;
+}
+
+.car {
+    height: 50%;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.Title {
+    font-family: "Roboto";
+    font-size: 34px;
+    color: #0d2436;
+}
+
+.Titleo {
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #0d2436;
+
+}
+
+.Titleoo {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: #0d2436;
+
+}
+
+.Titleooq {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 32px;
+    color: #0d2436;
+
+}
+
+.Nam {
+    font-family: "Lucida, sans-serif";
+    font-size: 30px;
+    font-weight: 500;
+    color: #454880;
+}
+
+.Nam:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.input {
+    border-radius: 5px;
+    height: 40px;
+    border-width: 0px;
+    margin-top: 12px;
+}
+
+.error {
+    color: red;
+    font-size: 15px;
+}
+
+.butto {
+    height: 40px;
+    width: 127px;
+    margin-top: 20px;
+    margin-left: 49px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.uuu {
+    background: #ECE9E6;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.gre {
+    background: #5D4157;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A8CABA, #5D4157);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A8CABA, #5D4157);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height: 100vh;
+}
+
+.bg-container {
+    background-image: linear-gradient(to right, #49c4ee, #6e87d6);
+}
+
+.bg-friends {
+    background: #c2e59c;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64b3f4, #c2e59c);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.brr {
+    color: red;
+}
+
+.img {
+    height: 200px;
+}
+
+.joke-text {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.ratingtext {
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+
+.mar {
+    margin-top: 100px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-title {
+    color: #7c3999;
+    overflow: hidden;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.wcu-card-title:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+
+}
+
+.wcu-card-description:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.joke-button {
+    color: #6c8bd8;
+    background-color: #ffffff;
+    font-size: 22px;
+    width: 120px;
+    overflow: hidden;
+    border-width: 0;
+    border-radius: 4px;
+}
+
+.portfolio-logo {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.banner-section-bg-container {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.banner-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-section-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.banner-section-image {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.person-name {
+    color: #4b6cc1;
+}
+
+.custom-button {
+    color: white;
+    background-color: #4b6cc1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+.bg {
+    background-color: #0d2436;
+
+}
+
+.heading1 {
+    color: #cced00;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.heading2 {
+    color: #9aa5b1;
+    font-size: 13px;
+    font-family: Roboto;
+}
+
+.pic {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+
+}
+
+.joke-btn {
+    color: #6c8bd8;
+    background-color: #ffffff;
+    font-size: 17px;
+    width: 120px;
+    overflow: hidden;
+    border-width: 0;
+    border-radius: 4px;
+}
